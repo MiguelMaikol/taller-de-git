@@ -1,5 +1,5 @@
 <?php
-// Autor: Sergio Gómez <sergio@uco.es>
+// Autor: Miguel Perez>
 //hola oawlodlldwdwd
 print "Introduce tu nombre:";
 $nombre = trim(fgets(STDIN));
